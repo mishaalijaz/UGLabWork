@@ -43,6 +43,7 @@ int main()
 	scanf_s("%d", &marriage);
 
 //evaluate the house rent according to marital status
+	
 	if (marriage == 1)
 	{
 		printf("You're unmarried, so you're ineligible for house rent\n");
@@ -99,7 +100,6 @@ int main()
 		}
 	}
 
-	
 	//calculating pension
 	a = (2 * basic_pay)* months_in_service;
 	b = house_rent*marriage_months;
