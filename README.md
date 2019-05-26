@@ -2,20 +2,20 @@
 A repository for my lab work during my undergraduate studies, varying from smaller, easier lab work of initial semesters to increasingly difficult lab work of final semesters.
 
 
-###Lab1 (Fundamentals of Computer Programming) 
+### Lab1 (Fundamentals of Computer Programming) 
 
 In this task, you have to understand and implement the following concepts
 • Variables
 • IF-ELSE conditioning
 
-####Objectives
+#### Objectives
 • To develop skills for using if – else statements.
 • To understand how to program conditional calculations.
 
-####Tools/Software Requirement
+#### Tools/Software Requirement
 • Microsoft Visual Studio 2010 or later
 
-####Problem Statement:
+#### Problem Statement:
 In this assignment you will create a program that an employee can use to calculate his/her pension. The pension is calculated by applying some calculations on his last drawn salary.
 
 **Details about salary:**
